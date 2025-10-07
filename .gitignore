@@ -10,6 +10,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/VR-Mini-Project_BackUpThisFolder_ButDontShipItWithYourGame/
+/VR-Mini-Project_BurstDebugInformation_DoNotShip/
 *.log
 
 # MemoryCaptures can get excessive in size.
